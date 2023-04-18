@@ -1,3 +1,6 @@
+# Solana Escrow
+An escrow service for Solana. Project is surrently is currently a work in progress. Hit me up if you have any questions.
+
 ### Environment Setup
 1. Install Rust from https://rustup.rs/
 2. Install Solana from https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool
